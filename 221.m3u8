@@ -1,0 +1,443 @@
+#EXTM3U
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/amc.png",BR| AMC HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162303.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/anhago.png",BR| ANHANGUERA GOIANIA
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162391.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/art.png",BR| ARTE 1 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171325.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/bahia0.png",BR| BAHIA HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162392.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/band.png",BR| BAND HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162309.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/banns1.png",BR| BAND NEWS HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162311.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/flag.png",BR| BAND SP HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/37424.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/bis.png",BR| BIS HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171349.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/cnlbrs.png",BR| CANAL BRASIL HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162316.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/combt.png",BR| COMBATE HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162327.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/cmdcnt.png",BR| COMEDY CENTRAL HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162329.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/cl7.png",BR| CURTA! HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162332.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/fish.png",BR| FISH TV HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331282.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/gosmv.png",BR| GOSPEL MOVIES TELEVISION HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/380032.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/rdet0.png",BR| REDE BRASIL HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162489.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/rdet0.png",BR| REDE VIDA HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162492.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/rdfm.png",BR| REDE FAMILIA HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/380024.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/rdgsp.png",BR| REDE GOSPEL HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/380023.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/mao.png",BR| REDE MÃO AMIGA HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/397454.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/spc.png",BR| SPACE HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/380020.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/tnbr.png",BR| TVN BRASIL HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/380017.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/gnt.png",BR| GNT HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331230.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/hg.png",BR| HGTV HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162439.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/multsh.png",BR| MULTISHOW HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331257.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/novotem.png",BR| NOVO TEMPO HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331231.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/off.png",BR| OFF HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331258.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/rcrd.png",BR| RECORD HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162550.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/rcord.png",BR| RECORD NEWS HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162484.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/rcord.png",BR| RECORD MG HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162483.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/rcord.png",BR| RECORD NORDESTE HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162485.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/flag.png",BR| RECORD RS HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/37406.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/flag.png",BR| RECORD RJ HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/37407.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/flag.png",BR| RECORD CAMPINAS HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/37410.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/rcrd.png",BR| RECORD BAHIA HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/53103.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/sbt.png",BR| SBT HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162495.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/sbt.png",BR| SBT NORDESTE HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162496.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/sbt.png",BR| SBT RJ HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162497.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/sbt.png",BR| SBT SP HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162494.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/sny.png",BR| SONY HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162499.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/syf.png",BR| SYFY HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331259.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/tbs.png",BR| TBS HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331260.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/tcm.png",BR| TCM HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162509.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/tnt.png",BR| TNT HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171329.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/diar.png",BR| TV DIARIO HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162535.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/tgaze.png",BR| TV GAZETA HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171348.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/ttem.png",BR| TV TEM BAURU HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331237.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/ttem.png",BR| TV TEM SOROCABA HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162423.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/ttrib.png",BR| TV TRIBUNA SANTOS HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162424.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/univch.png",BR| UNIVERSAL CHANNEL HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162552.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/tangu.png",BR| TV VANGUARDA DOS CAMPOS HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331239.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/terdes.png",BR| TV VERDES MARES FORTALEZA HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162426.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/vivah.png",BR| VIVA HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331228.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/warnch.png",BR| WARNER CHANNEL HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331251.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/woho.png",BR| WOOHOO HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162563.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/zomo.png",BR| ZOOMOO HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162565.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/santa.png",BR| SANTA CECILIA TV HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/397450.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/galg.png",BR| TV GALEGA HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/397440.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/metro.png",BR| TV METRÓPOLE HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/397436.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/tsolcom.png",BR| TV SOL COMUNIDADE HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/397433.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/tterc.png",BR| TV TERCEIRO ANJO HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/397432.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/camr.png",BR| TV CAMARA HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331234.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/flag.png",BR| TV BRASIL HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/37403.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/10atmt1.png",BR| 100 AUTO MOTO TV SD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162296.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/conmbl.png",BR| CONMEBOL TV  1 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/360178.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/conmbl.png",BR| CONMEBOL TV 2 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/360179.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/conmbl.png",BR| CONMEBOL TV  3 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/379635.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/conmbl.png",BR| CONMEBOL TV 4 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/379636.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/espbrs.png",BR| ESPN BRASIL HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162359.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/esp.png",BR| ESPN EXTRA HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171310.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/espex.png",BR| ESPN HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171302.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/esp.png",BR| ESPN 2 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171301.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/fxsp.png",BR| FOX SPORTS 2 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162381.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/sp1.png",BR| SPORTV 1 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171307.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/spt2.png",BR| SPORTV 2 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171308.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/spt3.png",BR| SPORTV 3 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171309.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/paramch.png",BR| PARAMOUNT CHANNEL HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162465.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/prme.png",BR| PREMIERE 1 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162468.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/prme2.png",BR| PREMIERE 2 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331246.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/prme3.png",BR| PREMIERE 3 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331247.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/prme.png",BR| PREMIERE 4 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162471.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/prme.png",BR| PREMIERE 5 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331248.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/prme.png",BR| PREMIERE 6 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331249.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/prme7.png",BR| PREMIERE 7 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/400230122.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/flag.png",✦●✦ CINEMA✦●✦
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/355445.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/axn.png",BR| AXN HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171323.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/cinmx.png",BR| CINEMAX HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171327.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/megapx.png",BR| MEGAPIX HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171297.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/fox.png",BR| FOX HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162384.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/hbo.png",BR| HBO HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171313.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/hbo2.png",BR| HBO 2 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171314.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/hbofm.png",BR| HBO FAMILY HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331242.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/hbom.png",BR| HBO MUNDI HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331244.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/hbopl.png",BR| HBO PLUS HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171315.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/hbopo.png",BR| HBO POP HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331245.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/hbosignat.png",BR| HBO SIGNATURE HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171333.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/hboxtr.png",BR| HBO XTREME HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331243.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/telact.png",BR| TELECINE ACTION HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171316.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/telcu.png",BR| TELECINE CULT HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171332.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/telcef.png",BR| TELECINE FUN HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171317.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/telpipo.png",BR| TELECINE PIPOCA HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171318.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/telcnpr.png",BR| TELECINE PREMIUM HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171319.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/telcnto.png",BR| TELECINE TOUCH HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171320.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/tntser.png",BR| TNT SERIES HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171322.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/flag.png",BR| CINE CANAL HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/37413.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/ane.png",BR| A&E HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171324.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/disch.png",BR| DISCOVERY CHANNEL HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171335.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/arg/hhh.png",BR| DISCOVERY H&H HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162341.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/disinve.png",BR| DISCOVERY ID-INVESTIGACAO HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162443.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/diskds.png",BR| DISCOVERY KIDS HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171339.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/dissci.png",BR| DISCOVERY SCIENCE HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162344.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/disthe.png",BR| DISCOVERY THEATER HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171336.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/distlc.png",BR| DISCOVERY TLC HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162346.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/distrb.png",BR| DISCOVERY TURBO HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171334.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/diswrd.png",BR| DISCOVERY WORLD HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171337.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/fodnet.png",BR| FOOD NETWORK HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171345.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/futr.png",BR| FUTURA HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162386.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/h2.png",BR| H2 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162432.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/histch.png",BR| HISTORY CHANNEL HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162440.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/natgeo.png",BR| NAT GEO HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331280.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/natgeok.png",BR| NAT GEO KIDS HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171342.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/STUDIO UNIVERSAL.png",BR| STUDIO UNIVERSAL HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162551.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/trvbx.png",BR| TRAVEL BOX HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162523.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/anmpl.png",BR| ANIMAL PLANET HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331279.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/e.png",BR| E! HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162354.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/cultr.png",BR| TV CULTURA HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162534.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/flag.png",✦●✦ KIDS✦●✦
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/355444.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/bomer.png",BR| BOOMERANG HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162315.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/crtnet.png",BR| CARTOON NETWORK HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162321.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/nickjr.png",BR| DISNEY JR HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171340.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/disxd.png",BR| DISNEY XD HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171343.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/lftm.png",BR| LIFETIME HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331229.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/nickjr.png",BR| NICK JR HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171341.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/nickld.png",BR| NICKELODEON HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171344.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/vh1.png",BR| VH1 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162557.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/cnnbrs.png",BR| CNN BRASIL HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162326.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/cnnint.png",BR| CNN INTERNACIONAL HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/360177.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/glbbr.png",BR| GLOBO BRASILIA HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162393.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/glboca.png",BR| GLOBO EPTV CAMPINAS HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162396.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/glboca.png",BR| GLOBO EPTV SAO CARLOS HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162399.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/glbo.png",BR| GLOBO NSC FLORIANOPOLIS HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331225.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/globi.png",BR| GLOBO MINAS HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162405.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/globi.png",BR| GLOBO NEWS HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162406.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/globi.png",BR| GLOBO NORDESTE HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162407.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/globi.png",BR| GLOBO RBS PORTO ALEGRE HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162409.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/globi.png",BR| GLOBO RIO GRANDE DO NORTE HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162412.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/globi.png",BR| GLOBO RJ HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162413.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/glbo.png",BR| GLOBO SP HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331224.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/globi.png",BR| GLOBO TV BELEM HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162418.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/glbo.png",BR| GLOBO TV HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331227.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/glbo.png",BR| GLOBO TV PORTUGAL HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331226.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/globi.png",BR| GLOBO TV SERGIPE HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162420.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/glbst0.png",BR| GLOBOSAT HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162427.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/globi.png",BR| GLOBO INTERNACIONAL HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162403.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/globi.png",BR| GLOBO RPC TV HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162415.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/flag.png",BR| GLOBO BAURU HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/37416.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/glbo.png",BR| GLOBO BAHIA
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/53102.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/glb.png",BR| GLOOB HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162428.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL HD" tvg-logo="https://lo1.in/BR/ratim.png",BR| TV RA TIM BUM HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162549.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/ane.png",BR| A&E FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162298.m3u8
+#EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| MALIMAR LAO AND THAI MUSIC
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162304.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/art.png",BR| ARTE 1 FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162306.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/axn.png",BR| AXN FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162307.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/bis.png",BR| BIS FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162314.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/cnlbrs.png",BR| CANAL BRASIL FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171267.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/sny.png",BR| CANAL SONY FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162318.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/crtnet.png",BR| CARTOONITO FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162322.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/cinmx.png",BR| CINEMAX FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162325.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/combt.png",BR| COMBATE FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162328.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/cmdcnt.png",BR| COMEDY CENTRAL FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162330.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/disch.png",BR| DISCOVERY CHANNEL FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162339.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/dish.png",BR| DISCOVERY  H&amp;H FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162342.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/diskds.png",BR| DISCOVERY KIDS FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162343.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/disthe.png",BR| DISCOVERY THEATER FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162345.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/distlc.png",BR| DISCOVERY TLC FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162518.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/distrb.png",BR| DISCOVERY TURBO FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162347.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/diswrd.png",BR| DISCOVERY WORLD FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162348.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/fish.png",BR| FISH TV FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162370.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/fxsp.png",BR| FOX SPORTS 2 FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162379.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/fxsp.png",BR| FOX SPORTS FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162382.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/glb.png",BR| GLOOB FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171260.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/globi.png",BR| GLOBO NEWS FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171279.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/globi.png",BR| GLOBO SP FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162416.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/gnt.png",BR| GNT FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162430.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/flag.png",BR| JOVEM PAN News FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/42802.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/hbofm.png",BR| HBO FAMILY FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162435.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/hbo.png",BR| HBO FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162436.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/hbopl.png",BR| HBO PLUS FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162437.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/hbosignat.png",BR| HBO SIGNATURE FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162438.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/lftm.png",BR| LIFE TIME FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162445.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/hbom.png",BR| HBO MUNDI FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162448.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/hboxtr.png",BR| HBO XTREME FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162449.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/hbopo.png",BR| HBO POP FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162453.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/megapx.png",BR| MEGA PIX FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162454.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/mtvbr.png",BR| MTV BRAZIL FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162455.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/natgeo.png",BR| NAT GEO FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162458.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/novaer.png",BR| NOVA ERA TV FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/397468.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/prm.png",BR| PREMIER FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162467.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/rcord.png",BR| RECORD SP FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162488.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/sbt.png",BR| SBT FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171292.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/spt2.png",BR| SPORTV 2 FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162502.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/spt3.png",BR| SPORTV 3 FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162503.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/sp.png",BR| SPORTV FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162504.m3u8
+#EXTINF:-1 group-title="AS | THAILLAND" tvg-logo="https://lo1.in/tha/flg.png",TH| LOOK THOONG TV HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162527.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/telact.png",BR| TELECINE ACTION FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162510.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/telcef.png",BR| TELECINE FUN FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162512.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/telpipo.png",BR| TELECINE PIPOCA FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162513.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/telcnpr.png",BR| TELECINE PREMIUM FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162514.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/telcnto.png",BR| TELECINE TOUCH FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162515.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/tntser.png",BR| TNT SERIES FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162520.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/tonc.png",BR| TOONCAST FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162521.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/tgaze.png",BR| TV GAZETA FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162538.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/novotem.png",BR| TV NOVO TEMPO FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/380045.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/univ.png",BR| UNIVERSAL TV FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/380041.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/viva.png",BR| VIVA FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162560.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/warnch.png",BR| WARNER BROS FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162561.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/woho.png",BR| WOHOO FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162562.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/zomo.png",BR| ZOOMOO FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162564.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/globi.png",BR| GLOBO RBS PORTO ALEGRE FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162410.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/rcodamz.png",BR| RECORD AMAZONAS FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162478.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/band.png",BR| BAND CAMPINAS FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162310.m3u8
+#EXTINF:-1 group-title="AM | BRAZIL FHD" tvg-logo="https://lo1.in/BR/telcu.png",BR| TELECINE CULT FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162511.m3u8
